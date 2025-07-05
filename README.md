@@ -1,4 +1,4 @@
 ## Πιστοποιητικά
 
-- [Πιστοποιητικό Python](certificates/pythoncertificate.pdf)
-- [Πιστοποιητικό SQL](certificates/sql_certificate.pdf)
+- [Πιστοποιητικό Python](Certificates/pythoncertificate.pdf)
+- [Πιστοποιητικό SQL](Certificates/sql_certificate.pdf)
